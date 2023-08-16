@@ -1,0 +1,6 @@
+# Ignore everything in this directory
+# Node_modules is ignored by default
+/node_modules/
+
+# Arquivo .env
+.env
